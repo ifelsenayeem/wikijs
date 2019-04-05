@@ -1,7 +1,5 @@
 # WikiJS
 
-## Introduction
-
 Wiki.js - A modern, lightweight and powerful wiki app built on NodeJS, Git and Markdown (https://wiki.js.org/)
 
 ## Building and running
